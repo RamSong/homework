@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://github.com/RamSong/homework</id>
+    <id>https://ramsong.github.io/homework</id>
     <title>FiveWork</title>
-    <updated>2022-03-19T14:56:15.599Z</updated>
+    <updated>2022-03-19T15:01:29.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://github.com/RamSong/homework"/>
-    <link rel="self" href="http://github.com/RamSong/homework/atom.xml"/>
+    <link rel="alternate" href="https://ramsong.github.io/homework"/>
+    <link rel="self" href="https://ramsong.github.io/homework/atom.xml"/>
     <subtitle>For Class Five &apos;s Homework</subtitle>
-    <logo>http://github.com/RamSong/homework/images/avatar.png</logo>
-    <icon>http://github.com/RamSong/homework/favicon.ico</icon>
+    <logo>https://ramsong.github.io/homework/images/avatar.png</logo>
+    <icon>https://ramsong.github.io/homework/favicon.ico</icon>
     <rights>All rights reserved 2022, FiveWork</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://github.com/RamSong/homework/post/hello-gridea/</id>
-        <link href="http://github.com/RamSong/homework/post/hello-gridea/">
+        <id>https://ramsong.github.io/homework/post/hello-gridea/</id>
+        <link href="https://ramsong.github.io/homework/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
